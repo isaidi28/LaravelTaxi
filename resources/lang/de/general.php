@@ -1,0 +1,23 @@
+<?php
+return [
+    'dashboard' => 'Armaturenbrett',
+    'go_to_about' => 'Zur Über-Seite gehen',
+    'chauffeurs' => 'Fahrer',
+    'add_chauffeur' => 'Fahrer hinzufügen',
+    'course' => 'Fahrt',
+    'chauffeur' => 'Fahrer',
+    'client' => 'Kunde',
+    'statut' => 'Status',
+    'pocket_number' => 'Taschennummer',
+    'courses' => 'Fahrten',
+    'users' => 'Benutzer',
+    'add_user' => 'Benutzer hinzufügen',
+    'edit_status' => 'Status bearbeiten',
+    'language_english' => 'Englisch',
+    'language_french' => 'Französisch',
+    'language_german' => 'Deutsch',
+    'login'=>'einloggen',
+    'register'=>'registrieren',
+    'logout'=>'logout',
+    'search_chauffeur' => 'Fahrer suchen',
+];
